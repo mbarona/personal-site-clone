@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    
+}
+
+footer {
+    background-color: #66BFBF;
+    color: #ffffff;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border-top: 8px dotted #EAF6F6;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.background {
+    background-color: #EAF6F6;
+    padding-top: 15em;
+}
+
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #0b5457);
+    background-image: -moz-linear-gradient(top, #66BFBF, #0b5457);
+    background-image: -ms-linear-gradient(top, #66BFBF, #0b5457);
+    background-image: -o-linear-gradient(top, #66BFBF, #0b5457);
+    background-image: linear-gradient(to bottom, #66BFBF, #0b5457);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 5% auto;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background: #3297d6;
+    background-image: -webkit-linear-gradient(top, #3297d6, #1d5c87);
+    background-image: -moz-linear-gradient(top, #3297d6, #1d5c87);
+    background-image: -ms-linear-gradient(top, #3297d6, #1d5c87);
+    background-image: -o-linear-gradient(top, #3297d6, #1d5c87);
+    background-image: linear-gradient(to bottom, #3297d6, #1d5c87);
+    text-decoration: none;
+  }
+
+.cloud-1 {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    
+}
+
+.cloud-2 {
+    position: absolute;
+    top: 10%;
+    right: 30%;
+
+}
+
+.computer-img {
+    float: left;
+}
+
+.chillies-img {
+    float: right;
+}
+
+.description {
+    position: relative;
+    bottom: 50px;
+}
+
+.intro {
+    width: 27%;
+    margin: auto;
+    line-height: 2;
+}
+
+.invite-txt {
+    width: 36%;
+    margin: 2% auto;
+    line-height: 2;
+}
+
+.name {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+    margin: auto;
+    position: relative;
+    bottom: 50px;
+    display: inline-block;
+    margin: 0 auto;
+    color: #66BFBF;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile-img {
+    margin: 70px auto 0; 
+}
+
+.skills-img {
+    width: 25%;
+    border-radius: 50%;
+    margin: 0 4%;
+
+}
+
+.skills-txt {
+    width: 45%;
+    text-align: left;
+    margin: 5% auto;
+    line-height: 2;
+}
+
+.sm-links {
+    font-family:'Montserrat', sans-serif;
+    color: #11999E;
+    text-decoration: none;
+    margin: 0 1% 1%;
+    display: inline-block;
+}
+
+a.sm-links:hover {
+    color: #EAF6F6;
+}
